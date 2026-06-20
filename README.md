@@ -160,11 +160,11 @@ The platform enables faculty members to generate standardized question papers qu
 
 ### Question Paper Preview
 
-![Preview Screen](Input%20Questions.txt)
+![Preview Screen](Input_Questions.txt)
 
 ### Generated Output
 
-![Generated Output](CIE-I_B.E%20(CSE)_I%20Sem._Programming%20for%20Problem%20Solving_Set2.pdf)
+![Generated Output](Generated_Output.pdf)
 
 ---
 
