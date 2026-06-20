@@ -160,7 +160,7 @@ The platform enables faculty members to generate standardized question papers qu
 
 ### Question Paper Preview
 
-![Preview Screen](Input_Questions.txt)
+(Input_Questions.txt)
 
 ### Generated Output
 
