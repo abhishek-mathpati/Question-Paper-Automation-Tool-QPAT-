@@ -160,11 +160,11 @@ The platform enables faculty members to generate standardized question papers qu
 
 ### Question Paper Preview
 
-(Input_Questions.txt)
+📄 [Input_Questions.txt](Input_Questions.txt)
 
 ### Generated Output
 
-![Generated Output](Generated_Output.pdf)
+📄 [Generated_Output.pdf](Generated_Output.pdf)
 
 ---
 
@@ -172,7 +172,7 @@ The platform enables faculty members to generate standardized question papers qu
 
 Watch the project demonstration:
 
-[Project Demo Video](QPAT.mp4)
+🎥 [Watch Project Demo](QPAT.mp4)
 
 Alternatively, the demonstration video can be hosted on YouTube and linked here.
 
