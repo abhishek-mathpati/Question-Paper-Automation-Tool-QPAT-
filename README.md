@@ -151,19 +151,20 @@ The platform enables faculty members to generate standardized question papers qu
 
 ### Home Screen
 
-![Home Screen](assets/screenshots/home.png)
+![Home Screen](Homepage.png)
 
 ### Examination Configuration
 
-![Setup Screen](assets/screenshots/setup.png)
+![Setup Screen](1.png)
+![Setup Screen](2.png)
 
 ### Question Paper Preview
 
-![Preview Screen](assets/screenshots/preview.png)
+![Preview Screen]("Input Questions.txt")
 
 ### Generated Output
 
-![Generated Output](assets/screenshots/output.png)
+![Generated Output]("CIE-I_B.E (CSE)_I Sem._Programming for Problem Solving_Set2.pdf")
 
 ---
 
@@ -171,7 +172,7 @@ The platform enables faculty members to generate standardized question papers qu
 
 Watch the project demonstration:
 
-[Project Demo Video](assets/demo/qpat-demo.mp4)
+[Project Demo Video](QPAT.mp4)
 
 Alternatively, the demonstration video can be hosted on YouTube and linked here.
 
