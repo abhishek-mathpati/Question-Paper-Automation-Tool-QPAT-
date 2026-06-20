@@ -172,7 +172,7 @@ The platform enables faculty members to generate standardized question papers qu
 
 Watch the project demonstration:
 
-🎥 [Watch Project Demo](QPAT.mp4)
+🎥 [Watch Project Demo](https://youtu.be/nXAxIQkd4dc)
 
 Alternatively, the demonstration video can be hosted on YouTube and linked here.
 
